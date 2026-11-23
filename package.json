@@ -1,5 +1,5 @@
 {
-  "name": "leak-shield",
+  "name": "@ct801/leak-shield",
   "version": "0.1.0",
   "description": "Zero-dependency high-speed secret, token, and sensitive data redactor for logs, strings, and Node.js streams.",
   "type": "module",
