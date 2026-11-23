@@ -39,8 +39,16 @@
     "logging",
     "security"
   ],
-  "author": "",
+  "author": "tyChirag",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tyChirag/leak-shield.git"
+  },
+  "homepage": "https://github.com/tyChirag/leak-shield#readme",
+  "bugs": {
+    "url": "https://github.com/tyChirag/leak-shield/issues"
+  },
   "devDependencies": {
     "@types/node": "^26.6.6",
     "tsup": "^8.3.5",
